@@ -1,4 +1,4 @@
-declare module 'react-native-shimmer-placeholder' {
+declare module 'react-native-shimmer-placeholder-1' {
     import React from 'react';
     import { Animated } from 'react-native';
     interface Props {

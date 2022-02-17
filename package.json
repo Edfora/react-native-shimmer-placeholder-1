@@ -1,14 +1,14 @@
 {
-  "name": "react-native-shimmer-placeholder",
-  "version": "1.0.35",
+  "name": "react-native-shimmer-placeholder-1",
+  "version": "1.0.1",
   "author": "Zaku",
   "bugs": {
-    "url": "https://github.com/tomzaku/react-native-shimmer-placeholder/issues"
+    "url": "https://github.com/Edfora/react-native-shimmer-placeholder-1/issues"
   },
   "directories": {
     "example": "example"
   },
-  "homepage": "https://github.com/tomzaku/react-native-shimmer-placeholder#readme",
+  "homepage": "https://github.com/Edfora/react-native-shimmer-placeholder-1#readme",
   "keywords": [
     "loading",
     "placeholder",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomzaku/react-native-shimmer-placeholder.git"
+    "url": "https://github.com/Edfora/react-native-shimmer-placeholder-1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

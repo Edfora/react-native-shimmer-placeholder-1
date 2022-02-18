@@ -3397,13 +3397,13 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-linear-gradient@^2.0.0:
+react-native-linear-gradient-1@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-linear-gradient/-/react-native-linear-gradient-2.0.0.tgz#7442c00e1fcd9fca329119dcbaf744d12bcd1b5a"
+  resolved "https://registry.yarnpkg.com/react-native-linear-gradient-1/-/react-native-linear-gradient-1-2.0.0.tgz#7442c00e1fcd9fca329119dcbaf744d12bcd1b5a"
 
-react-native-linear-gradient@^2.4.0:
+react-native-linear-gradient-1@^2.4.0:
   version "2.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-linear-gradient/-/react-native-linear-gradient-2.4.0.tgz#51d8ea12bb72a59bede9edc87b694b16b64cf435"
+  resolved "https://registry.yarnpkg.com/react-native-linear-gradient-1/-/react-native-linear-gradient-1-2.4.0.tgz#51d8ea12bb72a59bede9edc87b694b16b64cf435"
   dependencies:
     prop-types "^15.5.10"
 
@@ -3411,7 +3411,7 @@ react-native-shimmer-placeholder@^1.0.10:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/react-native-shimmer-placeholder/-/react-native-shimmer-placeholder-1.0.10.tgz#dee3241555208b7dd664014772c60dfa1cb9cae2"
   dependencies:
-    react-native-linear-gradient "^2.0.0"
+    react-native-linear-gradient-1 "^2.0.0"
 
 react-native@0.51.0:
   version "0.51.0"

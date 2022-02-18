@@ -22,13 +22,13 @@ Placeholder for both IOS and Android
 ![install size](https://packagephobia.now.sh/badge?p=react-native-shimmer-placeholder@1.0.29)
 ### Installation
 
-##### Step 1: Install react-native-linear-gradient (dependence)
+##### Step 1: Install react-native-linear-gradient-1 (dependence)
 
-`npm i react-native-linear-gradient --save && react-native link react-native-linear-gradient`
+`npm i react-native-linear-gradient-1 --save && react-native link react-native-linear-gradient-1`
 
 or
 
-`yarn add react-native-linear-gradient && react-native link react-native-linear-gradient`
+`yarn add react-native-linear-gradient-1 && react-native link react-native-linear-gradient-1`
 
 
 ##### Step 2: Install this package
